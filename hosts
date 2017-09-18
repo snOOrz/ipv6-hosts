@@ -22003,6 +22003,13 @@
 #68.232.44.229 cdn.www.xda-developers.com #gs1.wac.v3cdn.net
 68.232.44.229 wac.8244.edgecastcdn.net #gs1.wac.v3cdn.net
 
+# Pinterest
+2a04:4e42:200::84 pinterest.com
+2a04:4e42:200::84 www.pinterest.com
+2a04:4e42:200::84 s-media-cache-ak0.pinimg.com
+2a04:4e42:200::84 s.pinimg.com
+2a04:4e42:200::84 fastly-ipv6-i.pinimg.com
+
 ## +-------------------------------------------------------------------+
 ## |                            End of File                            |
 ## +-------------------------------------------------------------------+
